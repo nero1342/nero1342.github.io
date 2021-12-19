@@ -16,7 +16,7 @@ This is a collection of some publications I've worked on that are easily viewabl
 
 # <font color='#1ebbd7'>2021</font>
 
-<img src="/assets/img/thumb.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZH748xy2Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### HCMUS at MediaEval2021: PointRend with Attention Fusion Refinement for Polyps Segmentation
 [**E-Ro Nguyen**](/aboutme), Hai-Dang Nguyen, Minh-Triet Tran
