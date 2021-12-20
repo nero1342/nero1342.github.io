@@ -14,6 +14,12 @@ This is a collection of some publications I've worked on that are easily viewabl
 ---
 ---
 
+
+
+<div style="text-align:center;">
+    
+</div>
+
 # <font color='#1ebbd7'>2021</font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BZH748xy2Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -23,10 +29,8 @@ This is a collection of some publications I've worked on that are easily viewabl
 
 Medico Multimedia Task at MediaEval 2021: Transparency in Medical Image Segmentation, MediaEval 2021 Workshop
 
-
-<form action="https://2021.multimediaeval.com/paper71.pdf" method="get" target="_blank"><button type="submit">📝 paper</button></form>
-
-<form action="https://github.com/nero1342/Medico" method="get" target="_blank"><button type="submit">💥 code </button></form>
+<a class="btn btn-lg btn-primary" href="https://2021.multimediaeval.com/paper71.pdf"> 📝 paper</a>
+<a class="btn btn-lg btn-primary" href="https://github.com/nero1342/Medico"> 💥 code </a>
 
 ---
 <img src="/assets/img/thumb.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
@@ -35,7 +39,8 @@ Medico Multimedia Task at MediaEval 2021: Transparency in Medical Image Segmenta
 [**E-Ro Nguyen**](/aboutme), Hai-Dang Huynh-Lam, Hai-Dang Nguyen, Minh-Triet Tran
 
 Predicting Media Memorability Task, MediaEval 2021 Workshop
-<form action="https://2021.multimediaeval.com/paper31.pdf" method="get" target="_blank"><button type="submit">📝 paper</button></form>
+
+<a class="btn btn-lg btn-primary" href="https://2021.multimediaeval.com/paper31.pdf"> 📝 paper</a>
 
 ---
 ---
@@ -50,7 +55,7 @@ Nhat Hoang-Xuan*, [**E-Ro Nguyen***](/aboutme), Thuy-Dung Pham-Le, Khoi Hoang-Ng
 
 7th NAFOSTED Conference on Information and Computer Science (NICS), 2020
 
-<form action="https://davischallenge.org/challenge2020/papers/DAVIS-Semisupervised-Challenge-4th-Team.pdf" method="get" target="_blank"><button type="submit">📝 paper</button></form>
+<a class="btn btn-lg btn-primary" href="https://ieeexplore.ieee.org/document/9335847"> 📝 paper</a>
 
 ---
 
@@ -62,7 +67,8 @@ Minh-Triet Tran, Trung-Hieu Hoang, Tam V Nguyen, Trung-Nghia Le, [**E-Ro Nguyen*
 
 The 2020 DAVIS Challenge on Video Object Segmentation, CVPR Workshops, 2020
 
-<form action="https://davischallenge.org/challenge2020/papers/DAVIS-Semisupervised-Challenge-4th-Team.pdf" method="get" target="_blank"><button type="submit">📝 paper</button></form>
+
+<a class="btn btn-lg btn-primary" href="https://davischallenge.org/challenge2020/papers/DAVIS-Semisupervised-Challenge-4th-Team.pdf"> 📝 paper</a>
 
 ---
 
@@ -73,7 +79,7 @@ The-Anh Vu-Le, Hong-Hanh Nguyen-Le, [**E-Ro Nguyen**](/aboutme), Minh N. Do, and
 
 The 2020 DAVIS Challenge on Video Object Segmentation, CVPR Workshops, 2020
 
-<form action="https://davischallenge.org/challenge2020/papers/DAVIS-Semisupervised-Challenge-6th-Team.pdf" method="get" target="_blank"><button type="submit">📝 paper</button></form>
+<a class="btn btn-lg btn-primary" href="https://davischallenge.org/challenge2020/papers/DAVIS-Semisupervised-Challenge-6th-Team.pdf"> 📝 paper</a>
 
 ---
 
@@ -82,7 +88,7 @@ The 2020 DAVIS Challenge on Video Object Segmentation, CVPR Workshops, 2020
 ### Extended Monocular Image Based 3D Model Retrieval
 13th Eurographics Workshop on 3D Object Retrieval, 3DOR'20, 2020
 
-<form action="https://diglib.eg.org/handle/10.2312/3dor20201163" method="get" target="_blank"><button type="submit">📝 paper</button></form>
+<a class="btn btn-lg btn-primary" href="https://diglib.eg.org/handle/10.2312/3dor20201163"> 📝 paper</a>
 
 ---
 
@@ -90,8 +96,9 @@ The 2020 DAVIS Challenge on Video Object Segmentation, CVPR Workshops, 2020
 
 ### iTASK - Intelligent Traffic Analysis Software Kit
 IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR Workshops, 2020
-<form action="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Tran_iTASK_-_Intelligent_Traffic_Analysis_Software_Kit_CVPRW_2020_paper.pdf" method="get" target="_blank"><button type="submit">📝 paper</button></form>
 
+
+<a class="btn btn-lg btn-primary" href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Tran_iTASK_-_Intelligent_Traffic_Analysis_Software_Kit_CVPRW_2020_paper.pdf"> 📝 paper</a>
 
 --- 
 ---
@@ -103,4 +110,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR Workshops, 
 ###  Feature Curve Extraction on Triangle Meshes
 12th Eurographics Workshop 3D Object Retrieval, 3DOR'19, 2019
 
-<form action="https://hal.archives-ouvertes.fr/hal-02126739/" method="get" target="_blank"><button type="submit">📝 paper</button></form>
+
+
+<a class="btn btn-lg btn-primary" href="https://hal.archives-ouvertes.fr/hal-02126739/"> 📝 paper</a>

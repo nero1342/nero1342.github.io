@@ -10,5 +10,8 @@ carbonads: true
 ---
 
 # <font color='#1ebbd7'>Resume</font>
-<embed src="/assets/pdf/resume.pdf" width="100%" height="1000px" />
+<embed src="/assets/pdf/resume.pdf" width="100%" height="1000px" class="responsive"/>
 
+<div style="text-align:center;">
+    <a class="btn btn-lg btn-primary" href="/assets/pdf/resume.pdf"> Download </a>
+</div>
