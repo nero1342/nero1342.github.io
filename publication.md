@@ -15,10 +15,31 @@ This is a collection of some publications I've worked on that are easily viewabl
 ---
 
 
+# <font color='#1ebbd7'>2022</font>
+<img src="/assets/img/publication/VLFormer_RIS.png" alt="Overview of VLFormer" style="height: 240px; width:352px;"/>
+### VLFormer: Visual-Linguistic Transformer for Referring Image Segmentation
+[**E-Ro Nguyen**](/aboutme), Nhat Hoang-Xuan, Minh-Triet Tran
 
-<div style="text-align:center;">
-    
-</div>
+Under Review
+
+<a class="btn btn-lg btn-primary" href="https://youtube-vos.org/assets/challenge/2022/reports/RVOS_5_Nguyen.pdf"> 📝 paper</a>
+<a class="btn btn-lg btn-primary" href="https://github.com/nero1342/VLFormer"> 💥 code </a>
+
+---
+
+<img src="/assets/img/publication/VLFormer.png" alt="Overview of VLFormer" style="height: 240px; width:352px;"/>
+### Visual-Language Transformer for Referring Video Object Segmentation
+[**E-Ro Nguyen**](/aboutme), Nhat Hoang-Xuan, Minh-Triet Tran
+
+Track 3: Referring Video Object SegmentationPermalink, The 4th Large-scale Video Object Segmentation Challenge, CVPR Workshops 2022. 
+
+
+<a class="btn btn-lg btn-primary" href="https://youtube-vos.org/assets/challenge/2022/reports/RVOS_5_Nguyen.pdf"> 📝 paper</a>
+<a class="btn btn-lg btn-primary" href="https://github.com/nero1342/VLFormer"> 💥 code </a>
+
+---
+---
+
 
 # <font color='#1ebbd7'>2021</font>
 
