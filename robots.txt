@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://nero.com/sitemap.xml
-Host: https://nero.com
+Sitemap: https://nero1342.site/sitemap-index.xml
+Host: https://nero1342.site
